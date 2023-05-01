@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Balogun Zacchaeus - [Github](https://github.com/lordzac) / [Gmail](https://balogunzacchaeus@gmail.com)  
-Nwafor Victor - [Github](https://github.com/Vic-More) / [Gmail](https://)
+Balogun Zacchaeus - [Github](https://github.com/lordzac) 
+Nwafor Victor - [Github](https://github.com/Vic-More)
 
 ## License
 Public Domain. No copy write protection. 
