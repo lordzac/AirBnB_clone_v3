@@ -154,9 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Balogun Zacchaeus - [Github](https://github.com/lordzac) / [Twitter](https://twitter.com/alexa_orrico)  
-Nwafor Victor - [Github](https://github.com/Vic-More) / [Twitter](https://twitter.com/earthtojhuang)
+Balogun Zacchaeus - [Github](https://github.com/lordzac) / [Gmail](https://balogunzacchaeus@gmail.com)  
+Nwafor Victor - [Github](https://github.com/Vic-More) / [Gmail](https://)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
